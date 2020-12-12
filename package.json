@@ -1,0 +1,23 @@
+{
+  "name": "cisc525_final_exam",
+  "version": "1.0.0",
+  "description": "## Instructions",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^3.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drkiettran/cisc525_final_exam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drkiettran/cisc525_final_exam/issues"
+  },
+  "homepage": "https://github.com/drkiettran/cisc525_final_exam#readme"
+}
